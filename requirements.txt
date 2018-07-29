@@ -2,5 +2,5 @@ Django>=2.0
 djangorestframework==3.7.3
 djangorestframework-jwt==1.11.0
 django-guardian==1.4.9
-psycopg2
+psycopg2-binary
 Pillow
